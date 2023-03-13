@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t1 -al | -n 10
+ls -t1 -al | head -n 10
